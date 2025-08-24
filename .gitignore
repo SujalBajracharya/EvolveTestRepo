@@ -1,0 +1,8 @@
+# Ignore all .jpg files
+*.jpg
+\
+#Ignore a single file
+ThisFileMustBeIgnored.txt
+
+# Ignore a specific directory
+IgnoreFolder/
